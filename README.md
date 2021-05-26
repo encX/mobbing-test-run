@@ -1,46 +1,5 @@
-# Getting Started with Create React App
+# mobbing-test-run
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create a mock of this [page](https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM1gEaN0BiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuAKsl7iFBsACAdICJGQzNTMyODc0LTE2Y2MtNGEzNC04ODg3LWE5MWQwMDE1NDRjONgCBeACAQ&sid=324ea5a0ca10787cc14ea8919a246014&sb=1&sb_lp=1&src=index&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Findex.html%3Flabel%3Dgen173nr-1FCAEoggI46AdIM1gEaN0BiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuAKsl7iFBsACAdICJGQzNTMyODc0LTE2Y2MtNGEzNC04ODg3LWE5MWQwMDE1NDRjONgCBeACAQ%3Bsid%3D324ea5a0ca10787cc14ea8919a246014%3Bsb_price_type%3Dtotal%26%3B&ss=Sapporo%2C+Hokkaido%2C+Japan&is_ski_area=&checkin_year=2021&checkin_month=6&checkin_monthday=18&checkout_year=2021&checkout_month=6&checkout_monthday=20&group_adults=2&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1&search_pageview_id=dc243e16dd4e002e&ac_suggestion_list_length=5&ac_suggestion_theme_list_length=0&ac_position=0&ac_langcode=en&ac_click_type=b&dest_id=-242395&dest_type=city&iata=SPK&place_id_lat=43.061073&place_id_lon=141.356413&search_pageview_id=dc243e16dd4e002e&search_selected=true&ss_raw=sapporo)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![copy-this](https://user-images.githubusercontent.com/5965883/119636254-a62aba80-be3e-11eb-8d56-9072098715d6.png)
