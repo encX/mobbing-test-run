@@ -2,13 +2,8 @@ interface NavButtonProps {
   text: string;
 }
 
-const NavButton = (props: NavButtonProps) => {
-
-  return (
-    <div>
-      
-    </div>
-  )
-}
+const NavButton = ({ text }: NavButtonProps) => {
+  return <button>{text}</button>;
+};
 
 export default NavButton;
