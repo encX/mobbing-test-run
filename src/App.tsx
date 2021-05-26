@@ -2,6 +2,7 @@ import React from "react";
 
 import TopBar from "./components/AppBar/TopBar";
 import BottomBar from "./components/AppBar/BottomBar";
+import SearchBox from './components/SearchBox/SearchBox';
 import "./App.css";
 
 function App() {
@@ -12,8 +13,8 @@ function App() {
         <BottomBar />
       </nav>
       <main>
-        <section className="searchBox"></section>
-        <section className="searchResult"></section>
+      <SearchBox />
+      <section className="searchResult"></section>
       </main>
     </div>
   );
