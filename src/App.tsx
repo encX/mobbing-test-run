@@ -11,7 +11,10 @@ function App() {
         <TopBar />
         <BottomBar />
       </nav>
-      <main></main>
+      <main>
+        <section className="searchBox"></section>
+        <section className="searchResult"></section>
+      </main>
     </div>
   );
 }
